@@ -1,0 +1,1 @@
+insert into user values (2191,24,'Gokulsankar','Y','gokul1234','gokulsyu');
